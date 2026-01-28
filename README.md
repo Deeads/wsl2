@@ -1,2 +1,2 @@
 # wsl2
-firststeps
+First WSL/Ubuntu environment using Conda
